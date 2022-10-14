@@ -116,7 +116,7 @@ header ul a:hover{
 .mart:hover{
     color:#79B331;
 }
-.mart .potoli:hover{
+.mart:hover .potoli{
     background-color: #79B331;
 }
 .potoli{
